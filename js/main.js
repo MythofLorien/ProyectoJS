@@ -1,4 +1,4 @@
-// PRODUCTOS
+// Lista productos
 const productos = [
     // Abrigos
     {
